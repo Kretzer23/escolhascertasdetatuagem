@@ -3,10 +3,14 @@ body{
 
 font-size: 30px;
 text-align: justify;
-color:red;
+color:rgb(0, 0, 0);
+img{
+    margin:auto;
+}
+
 }
 h1 { 
-    color:blue;
+    color:rgb(0, 0, 0);
     font-size: 50px;
     text-align: center;
 }
